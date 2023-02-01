@@ -1,0 +1,74 @@
+{
+    "0": {
+        "question": "You want to code to learn a new skill?",
+        "fact": "skill"
+    },
+    "1": {
+        "question": "You want to code to design mobile apps?",
+        "fact": "mobile"
+    },
+    "2": {
+        "question": "You want to code to build websites?",
+        "fact": "web"
+    },
+    "3": {
+        "question": "You want to code to get a job?",
+        "fact": "job"
+    },
+    "4": {
+        "question": "You want to freelance?",
+        "fact": "freelance"
+    },
+    "5": {
+        "question": "You want to do data science and statics?",
+        "fact": "stats"
+    },
+    "6": {
+        "question": "You want to do data visualization?",
+        "fact": "viz"
+    },
+    "7": {
+        "question": "You are looking for simplicity",
+        "fact": "simple"
+    },
+    "8": {
+        "question": "You are looking for community?",
+        "fact": "community"
+    },
+    "9": {
+        "question": "You are looking for versatility?",
+        "fact": "versatile"
+    },
+    "10": {
+        "question": "You are looking for a widely used language?",
+        "fact": "wide"
+    },
+    "11": {
+        "question": "You are looking for a speedy language?",
+        "fact": "speedy"
+    },
+    "12": {
+        "question": "You are looking for a trendy language?",
+        "fact": "trendy"
+    },
+    "13": {
+        "question": "You are looking for a mature language?",
+        "fact": "mature"
+    },
+    "14": {
+        "question": "You are patient?",
+        "fact": "patient"
+    },
+    "15": {
+        "question": "You are fully invested to learn?",
+        "fact": "invested"
+    },
+    "16": {
+        "question": "You are not sure why you want to learn?",
+        "fact": "notsure"
+    },
+    "17": {
+        "question": "You to build cross platform apps?",
+        "fact": "crossplatform"
+    }
+}

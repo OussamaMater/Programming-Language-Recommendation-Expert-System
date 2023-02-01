@@ -1,0 +1,52 @@
+{
+    "php": {
+        "logo": "php-logo.svg",
+        "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995.",
+        "infos": "https://www.php.net"
+    },
+    "ruby": {
+        "logo": "ruby-logo.png",
+        "description": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity.",
+        "infos": "https://www.ruby-lang.org/en/"
+    },
+    "javascript": {
+        "logo": "js-logo.png",
+        "description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.",
+        "infos": "https://www.javascript.com"
+    },
+    "swift": {
+        "logo": "swift-logo.png",
+        "description": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.",
+        "infos": "https://developer.apple.com/swift/"
+    },
+    "java": {
+        "logo": "java-logo.png",
+        "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "infos": "https://www.programiz.com/java-programming"
+    },
+    "dart": {
+        "logo": "dart-logo.png",
+        "description": "Dart is a programming language designed for client development, such as for the web and mobile apps.",
+        "infos": "https://dart.dev"
+    },
+    "python": {
+        "logo": "python-logo.svg",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+        "infos": "https://www.python.org"
+    },
+    "scratch": {
+        "logo": "scratch-logo.png",
+        "description": "Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool for programming.",
+        "infos": "https://scratch.mit.edu"
+    },
+    "R": {
+        "logo": "r-logo.png",
+        "description": "R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing.",
+        "infos": "https://www.r-project.org"
+    },
+    "c/c++": {
+        "logo": "c-logo.png",
+        "description": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on.",
+        "infos": "https://www.programiz.com/cpp-programming"
+    }
+}

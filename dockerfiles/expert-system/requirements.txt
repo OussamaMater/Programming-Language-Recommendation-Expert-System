@@ -1,0 +1,4 @@
+experta
+fastapi
+uvicorn
+pydantic
